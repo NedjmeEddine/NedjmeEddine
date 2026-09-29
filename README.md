@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I'm Nedjmeddine 👋<br><br>I'm a CS student at ENSTA (Algeria) and a data-driven developer focused on backend development. I like building systems that turn raw data into something useful, which is what I'm doing with [Souma.online](souma.online/), a market intelligence product where I handle the scraping, APIs, and data pipelines end-to-end. I'm genuinely interested in AI/ML, especially applying it to real-world data problems.
+### Hi, I'm Nedjmeddine 👋<br><br>I'm a CS student at ENSTA (Algeria) and a data-driven developer focused on backend development. I like building systems that turn raw data into something useful, which is what I'm doing with [Souma.online](https://souma.online//), a market intelligence product where I handle the scraping, APIs, and data pipelines end-to-end. I'm genuinely interested in AI/ML, especially applying it to real-world data problems.
 
 
 ## 🌐 Socials:
